@@ -3,7 +3,7 @@
 
 ## Data Diri
 
-- Tri Rahmayati Putri [@trirp](https://www.github.com/octokatherine)
+- Tri Rahmayati Putri (2210010569) [@trirp](https://www.github.com/octokatherine)
 ## Keunggulan Project
 
 - Tampilan dilengkapi tombol-tombol sehingga mudah digunakan
